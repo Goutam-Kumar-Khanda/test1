@@ -1,5 +1,0 @@
-{{#user}}
-Name:Goutam
-Skills:HTML,CSS,JS,java,springboot
-Email: goutamkhanda27@gmail.com
-{{/user}}
